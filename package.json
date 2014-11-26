@@ -2,7 +2,7 @@
   "name": "kierratysKml",
   "version": "0.1.0",
   "description": "kierratysKml",
-  "main": "app.js,
+  "main": "app.js",
   "dependencies": { 
 	  "xml-writer" : "*",
 	  "xml2js" : "*"
